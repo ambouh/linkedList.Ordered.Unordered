@@ -1,7 +1,7 @@
 ## **ORDERED AND UNORDERED LINKED-LIST - IMPLEMENTS COMPARABLE AND ITERABLE INTERFACES**
 
 ##### CONCEPTS:
-[LinkedList representation, implementing `Comparable<T>` for order, `Iterable<T>` for traversal, Unit Testing]
+[LinkedList representation, implementing `Comparable<T>` for order, `Iterable<T>` for traversal, Unit Testing Development]
 
 ##### PURPOSE:
 - `LinkedList` representation: creating an unordered-list with a node inner class to implement the linked list. It uses 
